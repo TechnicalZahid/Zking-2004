@@ -6,4 +6,4 @@ git clone https://github.com/TechnicalZahid/Zking-2004.git
 
 cd Zking-2004
 
-python old2004.py
+python old-2004.py
